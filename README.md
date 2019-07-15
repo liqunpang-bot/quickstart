@@ -1,3 +1,3 @@
 # node 
 
-Simple Hello World that listens localhost:8080
+Simple Hello World that listens localhost:8080 test plugins
